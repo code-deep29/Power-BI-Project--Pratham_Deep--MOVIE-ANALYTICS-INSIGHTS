@@ -1,0 +1,2 @@
+# Power-BI-Project--Pratham_Deep--MOVIE-ANALYTICS-INSIGHTS
+🎬 A movie dashboard for curious movie lovers! Explore different genres, check ratings, discover popular films, and see how movie trends change over the years. Search for titles, browse the collection, and interact with simple visuals to find interesting patterns in the world of movies—all in one place, built with Power BI. Made to be explored.
